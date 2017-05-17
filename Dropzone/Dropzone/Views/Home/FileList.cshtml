@@ -1,0 +1,100 @@
+﻿@model string[]
+
+@{
+    ViewBag.Title = "FileList";
+}
+
+<h3>Lista plików</h3>
+
+<h4>Proszę wybrać rozszerzenie/a pliku/ów:</h4>
+<br/>
+
+@using (Ajax.BeginForm("ShowUploadedFilesByExtensions", "Home", null, new AjaxOptions
+{
+    OnSuccess = "success",
+    HttpMethod = "Post",
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "fileList"
+}))
+{
+    @*<div class="checkboxes">
+        @foreach (string ext in Model)
+        {
+            <label for="@ext">
+                <input type="checkbox" class="checkbox" name="extensions" value="@ext" id="@ext" />
+                <span>@ext</span>
+            </label>
+        }
+    </div>*@
+
+    <div class="checkboxes">
+        <h5>Pliki graficzne:</h5>
+        @for (int i = 0; i < 5; i++)
+        {
+            <label for="@Model[i]">
+                <input type="checkbox" class="checkbox" name="extensions" value="@Model[i]" id="@Model[i]" />
+                <span>@Model[i]</span>
+            </label>
+        }
+    </div><br /><br /><br />
+
+    <div class="checkboxes">
+        <h5>Pliki muzyczne: </h5>
+        @for (int i = 5; i < 8; i++)
+        {
+            <label for="@Model[i]">
+                <input type="checkbox" class="checkbox" name="extensions" value="@Model[i]" id="@Model[i]" />
+                <span>@Model[i]</span>
+            </label>
+        }
+    </div><br /><br /><br />
+
+    <div class="checkboxes">
+        <h5>Pliki wideo: </h5>
+        @for (int i = 8; i < 11; i++)
+        {
+            <label for="@Model[i]">
+                <input type="checkbox" class="checkbox" name="extensions" value="@Model[i]" id="@Model[i]" />
+                <span>@Model[i]</span>
+            </label>
+        }
+    </div><br /><br /><br />
+
+    <div class="checkboxes">
+        <h5>Pliki skompresowanie: </h5>
+        @for (int i = 11; i < 13; i++)
+        {
+            <label for="@Model[i]">
+                <input type="checkbox" class="checkbox" name="extensions" value="@Model[i]" id="@Model[i]" />
+                <span>@Model[i]</span>
+            </label>
+        }
+    </div><br /><br /><br />
+
+    <div class="checkboxes">
+        <h5>Pliki tekstowe: </h5>
+        @for (int i = 13; i < 16; i++)
+        {
+            <label for="@Model[i]">
+                <input type="checkbox" class="checkbox" name="extensions" value="@Model[i]" id="@Model[i]" />
+                <span>@Model[i]</span>
+            </label>
+        }
+    </div><br /><br /><br />
+
+    <div class="checkboxes">
+        <h5>Pliki officowe (baza danych, arkusz): </h5>
+        @for (int i = 16; i < 18; i++)
+        {
+            <label for="@Model[i]">
+                <input type="checkbox" class="checkbox" name="extensions" value="@Model[i]" id="@Model[i]" />
+                <span>@Model[i]</span>
+            </label>
+        }
+    </div><br /><br /><br />
+
+    <input type="submit" value="Wyświetl pliki" class="btn btn-default"/>
+}
+
+<div id="fileList"></div>
+

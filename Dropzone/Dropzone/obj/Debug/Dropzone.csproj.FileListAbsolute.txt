@@ -1,0 +1,265 @@
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\ApplicationInsights.config
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\csc.exe
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\vbc.exe
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Dropzone.dll.config
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Dropzone.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Dropzone.pdb
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Antlr3.Runtime.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.AI.Web.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Newtonsoft.Json.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.Helpers.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.Mvc.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.Optimization.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.Razor.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.WebPages.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\WebGrease.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.AI.Web.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.Helpers.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.Mvc.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.Optimization.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.Razor.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.WebPages.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Antlr3.Runtime.pdb
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\bin\Newtonsoft.Json.xml
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\obj\Debug\Dropzone.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\obj\Debug\Dropzone.dll
+C:\Users\Mateusz\Desktop\ASP\Dropzone\Dropzone\obj\Debug\Dropzone.pdb
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\ApplicationInsights.config
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\csc.exe
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\vbc.exe
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\VBCSCompiler.exe
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Dropzone.dll.config
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Dropzone.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Dropzone.pdb
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Antlr3.Runtime.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.Web.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Newtonsoft.Json.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.Helpers.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.Mvc.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.Optimization.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.Razor.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.Razor.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\WebGrease.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.Web.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.Helpers.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.Mvc.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.Optimization.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.Razor.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.Razor.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Antlr3.Runtime.pdb
+C:\Users\ravan\Desktop\Dropzone\Dropzone\bin\Newtonsoft.Json.xml
+C:\Users\ravan\Desktop\Dropzone\Dropzone\obj\Debug\Dropzone.csprojResolveAssemblyReference.cache
+C:\Users\ravan\Desktop\Dropzone\Dropzone\obj\Debug\Dropzone.dll
+C:\Users\ravan\Desktop\Dropzone\Dropzone\obj\Debug\Dropzone.pdb
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\ApplicationInsights.config
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\csc.exe
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\vbc.exe
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Dropzone.dll.config
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Dropzone.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Dropzone.pdb
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Antlr3.Runtime.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.Web.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Newtonsoft.Json.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.Helpers.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.Mvc.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.Optimization.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.Razor.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\WebGrease.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.Web.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.Helpers.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.Mvc.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.Optimization.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.Razor.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Antlr3.Runtime.pdb
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\bin\Newtonsoft.Json.xml
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\obj\Debug\Dropzone.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\obj\Debug\Dropzone.dll
+C:\Users\Mateusz\Desktop\Dropzone\Dropzone\obj\Debug\Dropzone.pdb
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\ApplicationInsights.config
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\csc.exe
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\vbc.exe
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Dropzone.dll.config
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Dropzone.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Dropzone.pdb
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Antlr3.Runtime.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.AI.Web.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Newtonsoft.Json.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.Helpers.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.Mvc.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.Optimization.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.Razor.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.WebPages.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\WebGrease.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.AI.Web.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.Helpers.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.Mvc.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.Optimization.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.Razor.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.WebPages.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Antlr3.Runtime.pdb
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\bin\Newtonsoft.Json.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\obj\Debug\Dropzone.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\obj\Debug\Dropzone.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3\Dropzone\Dropzone\obj\Debug\Dropzone.pdb
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\ApplicationInsights.config
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\csc.exe
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\vbc.exe
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Dropzone.dll.config
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Dropzone.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Dropzone.pdb
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Antlr3.Runtime.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.AI.Web.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Newtonsoft.Json.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.Helpers.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.Mvc.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.Optimization.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.Razor.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.WebPages.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\WebGrease.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.AI.Web.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.Helpers.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.Mvc.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.Optimization.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.Razor.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.WebPages.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Antlr3.Runtime.pdb
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\bin\Newtonsoft.Json.xml
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\obj\Debug\Dropzone.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\obj\Debug\Dropzone.dll
+C:\Users\Mateusz\Desktop\ASP\Checkpoint 3 - trwa\Dropzone\Dropzone\obj\Debug\Dropzone.pdb

@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@if (ViewBag.Error != null)
+{
+    <h2>@ViewBag.Error</h2>
+}
+
+<span class="form-control-static">Adres e-mail: </span>
+<input class="form-control" type="text" name="receiverEmail" />
+<br />
+<br />
+
+
+
+<script src="~/Scripts/dropzone/dropzone.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<link href="~/Scripts/dropzone/dropzone.min.css" rel="stylesheet" />
+<div class="jumbotron">
+    <form action="~/Home/Upload"
+    class="dropzone"
+    id = "dropzoneJsForm"
+    style = "background-color:white" ></form>
+    <br/>
+    <div class="text-center">
+        <button id="submit-all">Zatwierdź wszystko</button>
+    </div>
+</div>
+        
+
+<script type="text/javascript">
+
+    Dropzone.options.dropzoneForm =
+  {
+      acceptedFiles: '.jpg, .txt, .docx, .accdb, .pdf, .xlsx, .zip, .rar, .mp3, .avi, .mp4, .wmv',
+      maxFilesize: 100,
+        init: function() {
+            this.on("complete", function (data)
+            {
+                var res = JSON.parse(data.xhr.responseText);
+            });
+        }
+    };
+</script>
