@@ -1,0 +1,21 @@
+﻿@model Dropzone.Models.UploadedFileModel
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr/>
+        <div class="form-group">
+            <div class="col-md-12">
+                @Html.EditorFor(model => model.FileName, new { htmlAttributes = new { @class = "form-control" } })
+                <br/>
+                <a href="#" class="btn btn-default" onclick="loadFoundFiles();">Szukaj</a>
+            </div>
+        </div>
+    </div>
+}  
+
+<div id="items"></div>
+
+

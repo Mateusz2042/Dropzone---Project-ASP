@@ -29,24 +29,7 @@ namespace Dropzone.Controllers
         [HttpPost]
         public ActionResult ShowUploadedFilesByExtensions(string[] extensions)
         {
-
-            List<UploadedFileModel> files = new List<UploadedFileModel>();
-
-            string path = Server.MapPath("~/MyFiles");
-            DirectoryInfo dir = new DirectoryInfo(path);
-
-            foreach (FileInfo file in dir.GetFiles())
-            {
-                string ext = Path.GetExtension(file.FullName);
-
-                if (extensions == null || extensions.Contains(ext))
-                { 
-                    files.Add(new UploadedFileModel { Path = file.FullName, FileName = file.Name, Extension = ext });
-                }
-
-            }
-
-            return View(files);
+            return View(GetFilesFromFolder(extensions));
         }
 
         public ActionResult Index()
@@ -111,45 +94,46 @@ namespace Dropzone.Controllers
             }
         }
 
-        [HttpPost]
-        public void sendEmail(string receiverEmail)
+        [HttpGet]
+        public ActionResult ShowUploadedFiles()
         {
-            try
+            return View();
+        }
+        [HttpPost]
+        public JsonResult ShowUploadedFiles(string text)
+        {
+            var found = (from x in GetFilesFromFolder(null) where x.FileName.StartsWith(text) select new { x.FileName });
+
+            return Json(found, JsonRequestBehavior.AllowGet);
+        }
+        [HttpPost]
+        public ActionResult ShowFoundFiles(string text)
+        {
+            List<UploadedFileModel> found = GetFilesFromFolder(null).Where(p => p.FileName.StartsWith(text)).ToList();
+
+            return PartialView(found.ToList());
+        }
+
+        public List<UploadedFileModel> GetFilesFromFolder(string[] extensions)
+        {
+            List<UploadedFileModel> files = new List<UploadedFileModel>();
+
+            string path = Server.MapPath("~/MyFiles");
+            DirectoryInfo dir = new DirectoryInfo(path);
+
+            foreach (FileInfo file in dir.GetFiles())
             {
-                if (ModelState.IsValid)
+                string ext = Path.GetExtension(file.FullName);
+
+                if (extensions == null || extensions.Contains(ext))
                 {
-                    var senderemail = new MailAddress("turniej.sportowy2017@gmail.com", "Turniej");
-                    var receiveremail = new MailAddress(receiverEmail, "Receiver");
-
-                    var password = "abcd12345678";
-                    var sub = "Potwierdzenie";
-                    var body = "Upload plików został wykonany pomyślnie.";
-
-                    var smtp = new SmtpClient
-                    {
-                        Host = "smtp.gmail.com",
-                        Port = 587,
-                        EnableSsl = true,
-                        DeliveryMethod = SmtpDeliveryMethod.Network,
-                        UseDefaultCredentials = false,
-                        Credentials = new System.Net.NetworkCredential(senderemail.Address, password)
-                    };
-
-                    using (var mess = new MailMessage(senderemail, receiveremail)
-                    {
-                        Subject = sub,
-                        Body = body
-                    }
-                    )
-                    {
-                        smtp.Send(mess);
-                    }
+                    files.Add(new UploadedFileModel { Path = file.FullName, FileName = file.Name, Extension = ext });
                 }
             }
-            catch (Exception)
-            {
-                ViewBag.Error = "Nie można wysłać.";
-            }
+
+            return files;
         }
+
+
     }
 }
